@@ -1,0 +1,14 @@
+/Users/chrisconnolly/Documents/learning/dotnet/TestProject/bin/Debug/net10.0/TestProject
+/Users/chrisconnolly/Documents/learning/dotnet/TestProject/bin/Debug/net10.0/TestProject.deps.json
+/Users/chrisconnolly/Documents/learning/dotnet/TestProject/bin/Debug/net10.0/TestProject.runtimeconfig.json
+/Users/chrisconnolly/Documents/learning/dotnet/TestProject/bin/Debug/net10.0/TestProject.dll
+/Users/chrisconnolly/Documents/learning/dotnet/TestProject/bin/Debug/net10.0/TestProject.pdb
+/Users/chrisconnolly/Documents/learning/dotnet/TestProject/obj/Debug/net10.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrisconnolly/Documents/learning/dotnet/TestProject/obj/Debug/net10.0/TestProject.AssemblyInfoInputs.cache
+/Users/chrisconnolly/Documents/learning/dotnet/TestProject/obj/Debug/net10.0/TestProject.AssemblyInfo.cs
+/Users/chrisconnolly/Documents/learning/dotnet/TestProject/obj/Debug/net10.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/chrisconnolly/Documents/learning/dotnet/TestProject/obj/Debug/net10.0/TestProject.dll
+/Users/chrisconnolly/Documents/learning/dotnet/TestProject/obj/Debug/net10.0/refint/TestProject.dll
+/Users/chrisconnolly/Documents/learning/dotnet/TestProject/obj/Debug/net10.0/TestProject.pdb
+/Users/chrisconnolly/Documents/learning/dotnet/TestProject/obj/Debug/net10.0/TestProject.genruntimeconfig.cache
+/Users/chrisconnolly/Documents/learning/dotnet/TestProject/obj/Debug/net10.0/ref/TestProject.dll
