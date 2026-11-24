@@ -57,3 +57,28 @@ foreach (int round in rounds)
     Console.WriteLine($"Round {index}: {round}");
     index ++;
 }
+
+//new
+string carReg = "ABC-123";
+
+if (carReg.Length != 7)
+{
+    return false;
+}
+
+int i = 0;
+do
+{
+    if (char.IsLetter(carReg[i]));
+    {
+        return true
+        i++;
+    }
+}
+while (i < 3);
+
+if (carReg[4] != '-');
+{
+    return false
+}
+
